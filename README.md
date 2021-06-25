@@ -7,13 +7,17 @@ we'll be looking at how to power and drive a DC motor with an L293D(H brageI298)
 
 #  Component:
 
-	9V Battery.
+  9V Battery.
   
   Arduino Uno R3.
   
   H-bridge Motor Driver.
 
   2_DC Motor.
+  
+  Breadboard.
+  
+  Wires.
 
 #  Connecting the components:
 
