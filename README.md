@@ -23,7 +23,10 @@ we'll be looking at how to power and drive a DC motor with an L293D(H brageI298)
 
 First, let's hook up the components on the breadboard. Below you'll see a pin diagram of the L293D - note the location of each of the pins, relative to the notch at the top.
 
-![850b98a-L293D-pinout png](https://user-images.githubusercontent.com/56201060/123436668-85898800-d5d7-11eb-9f99-f65d55a2c375.jpeg)
+https://www.ti.com/lit/ds/symlink/l293.pdf
+
+![L293D-Pinout](https://user-images.githubusercontent.com/56201060/123439480-78ba6380-d5da-11eb-83e0-5c08f576a341.png)
+
 
 #  Circuit connection steps:
 
