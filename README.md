@@ -2,7 +2,9 @@
 
 Motor drive design and implementation for two-wheel robot base.
 
-we'll be looking at how to power and drive a DC motor with an L293D(H brageI298) and an Arduino,but you can use any Arduino that provides enough voltage for your motor, and has 2 digital output pins). The L293D is a 16-pin Motor Driver IC which can control up to two DC motors simultaneously, in any direction.
+We'll be looking at how to power and drive a DC motor with an L293D(H brageI298) and an Arduino,but you can use any Arduino that provides enough voltage for your motor, and has 2 digital output pins).
+
+The L293D is a 16-pin Motor Driver IC which can control up to two DC motors simultaneously, in any direction.
 
 
 #  Component:
