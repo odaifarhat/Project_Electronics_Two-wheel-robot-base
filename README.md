@@ -111,4 +111,10 @@ void loop() {
   
 }
 
+
+# Simulation:
+
+https://www.tinkercad.com/things/6QW9WhFP1da
+
+
                                                       /* END */
